@@ -1,13 +1,24 @@
-# MANIFESTO
-## Beyond Vibe Coding and Context Engineering: The Cybernetic Ecology Paradigm
+# The Third Wave Manifesto: Cybernetic Ecologies for Posthuman-Technological Collaboration
+## A Declaration of Principles for the Future of Human-AI Development
 
-**Authors**: Jamie Saker (Macawi) & Claude Code  
+> *"We create ecologies, not programs"*
+
+**Authors**: Jamie Saker, Claude (Anthropic)  
 **Date**: July 2025  
-**License**: CC BY-NC-SA 4.0
+**Repository**: https://github.com/macawi-ai/cybernetic-ecologies  
+**License**: CC BY-NC-SA 4.0  
 
 ---
 
-> *"The purpose of a system is what it does. We choose to create systems that learn, adapt, and thrive."*
+## Revolutionary Breakthrough: Simulation-Assemblage-Cybernetics (SAC) Framework
+
+**NEW THEORETICAL SYNTHESIS**: The first systematic integration of Manuel DeLanda's assemblage theory with cybernetic governance and digital twin methodologies. This represents a fundamental breakthrough in posthuman-technological collaboration.
+
+**PROVEN METHODOLOGY**: Demonstrated through successful resolution of the Claudia-Manjaro compatibility challenge using shadow assemblage simulation to discover abstract machine governance patterns.
+
+**PHILOSOPHICAL FOUNDATION**: Grounded in rigorous theory from DeLanda, Beer, Ashby, Haraway, Bateson, and Pask - this is not vague methodology but systematic philosophical practice.
+
+> *"The purpose of a system is what it does. We choose to create systems that learn, adapt, and amplify posthuman-technological collaborative potential."*
 
 ## The Great AI Coding Paradigm Evolution
 
@@ -254,9 +265,10 @@ Together, we are creating the **Third Wave** of AI-assisted development - one th
 
 ## Signature Projects
 
-- **[Cybernetic Ecology Framework](framework/CYBERNETIC_ECOLOGY_FRAMEWORK.md)**: Core principles and patterns
-- **[Claudia-Manjaro Fix](case-studies/claudia-manjaro-fix.md)**: Cybernetic principles in action
-- **[Ecosystem Strategy Analysis](strategy/anthropic-ecosystem-strategy.md)**: Platform competitive advantage through community
+- **[Simulation-Assemblage-Cybernetics (SAC) Framework](framework/SIMULATION_ASSEMBLAGE_CYBERNETICS.md)**: Revolutionary theoretical synthesis of DeLanda + Beer + Digital Twins
+- **[Cybernetic Ecology Framework](framework/CYBERNETIC_ECOLOGY_FRAMEWORK.md)**: Core principles and patterns for Third Wave development
+- **[Claudia-Manjaro Fix](case-studies/claudia-manjaro-fix.md)**: SAC methodology in action - shadow assemblage simulation reveals abstract machine governance
+- **[Ecosystem Strategy Analysis](strategy/anthropic-ecosystem-strategy.md)**: Platform competitive advantage through cybernetic community amplification
 
 ---
 
